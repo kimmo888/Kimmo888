@@ -19,7 +19,8 @@ const Kimmo888 = {
 
 | HTML5  | CSS3 | JavaScript | VisialCode  | Webpack | Git  | Netlify |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ![](https://user-images.githubusercontent.com/89752427/179860246-c396a7d9-6e7d-4955-bc52-11359d55b226.png)| ![](https://user-images.githubusercontent.com/89752427/179860364-88d57dce-0011-467a-bfe4-afa8579141a5.png)  | ![](https://user-images.githubusercontent.com/89752427/179860501-e651138d-ad20-461d-93f2-3a370c216066.png) |    |    |    |    |  
+| ![](https://user-images.githubusercontent.com/89752427/179860246-c396a7d9-6e7d-4955-bc52-11359d55b226.png)| ![](https://user-images.githubusercontent.com/89752427/179860364-88d57dce-0011-467a-bfe4-afa8579141a5.png)  | ![](https://user-images.githubusercontent.com/89752427/179860501-e651138d-ad20-461d-93f2-3a370c216066.png) | ![](https://user-images.githubusercontent.com/89752427/179862408-207f1ab7-d68d-476d-849d-e27e117a8cd9.png)
+|    |    |    |  
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 
