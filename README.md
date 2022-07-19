@@ -17,7 +17,7 @@ const Kimmo888 = {
 
 ## My Teck Stack
 
-![](https://user-images.githubusercontent.com/89752427/179860246-c396a7d9-6e7d-4955-bc52-11359d55b226.png)![](https://user-images.githubusercontent.com/89752427/179860364-88d57dce-0011-467a-bfe4-afa8579141a5.png)
+![](https://user-images.githubusercontent.com/89752427/179860246-c396a7d9-6e7d-4955-bc52-11359d55b226.png)![](https://user-images.githubusercontent.com/89752427/179860364-88d57dce-0011-467a-bfe4-afa8579141a5.png)![](https://user-images.githubusercontent.com/89752427/179860501-e651138d-ad20-461d-93f2-3a370c216066.png)
 
 <!--
 **kimmo888/kimmo888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
