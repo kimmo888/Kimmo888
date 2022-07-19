@@ -15,6 +15,10 @@ const Kimmo888 = {
 ## You can contact me:
 > Gmail:    kastro777888@gmail.com
 
+## My Teck Stack
+
+
+
 <!--
 **kimmo888/kimmo888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
