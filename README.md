@@ -17,7 +17,7 @@ const Kimmo888 = {
 
 ## My Teck Stack
 
-| HTML5  | CSS3 | JavaScript | VisialCode  | Git | Webpack  | Netlify |
+| Html5 | Css3 | JavaScript | VisialCode  | Git | Webpack  | Netlify |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ![](https://user-images.githubusercontent.com/89752427/179860246-c396a7d9-6e7d-4955-bc52-11359d55b226.png)| ![](https://user-images.githubusercontent.com/89752427/179860364-88d57dce-0011-467a-bfe4-afa8579141a5.png)  | ![](https://user-images.githubusercontent.com/89752427/179860501-e651138d-ad20-461d-93f2-3a370c216066.png) | ![](https://user-images.githubusercontent.com/89752427/179862408-207f1ab7-d68d-476d-849d-e27e117a8cd9.png)|![](https://user-images.githubusercontent.com/89752427/179862000-df640ecb-92c1-4d0d-a081-6488630ed183.png)|![](https://user-images.githubusercontent.com/89752427/179862481-3001efbe-4a27-4715-88c2-b2090ffc4ec5.png)|![](https://user-images.githubusercontent.com/89752427/179862114-20fbb923-a922-47d1-a9c2-f0c6a0be5c45.png)|
 
