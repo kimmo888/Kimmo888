@@ -12,8 +12,7 @@ const Kimmo888 = {
 }
 ```
 
-## You can contact me:
-> Gmail:    kastro777888@gmail.com
+
 
 ## My Teck Stack
 
