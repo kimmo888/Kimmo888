@@ -24,6 +24,13 @@ const Kimmo888 = {
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ![](https://user-images.githubusercontent.com/89752427/179862195-9d8e91e8-3367-45e8-be39-1deab86cefc9.png) | ![](https://user-images.githubusercontent.com/89752427/179862271-8d67c27e-27a3-4983-8ba8-127a02a19bbd.png) | ![](https://user-images.githubusercontent.com/89752427/179861765-ed8b5abb-c1ad-4f00-ada3-d2bdc44f28db.png) | ![](https://user-images.githubusercontent.com/89752427/179862332-2bf32fad-c6cd-4c05-9614-c7b205ffac3c.png) | ![](https://user-images.githubusercontent.com/89752427/179861889-8ac546d4-3b06-4402-bd04-0f0c8666850d.png) | ![](https://user-images.githubusercontent.com/89752427/179862043-dd020a98-8737-4a49-bd3a-24bb39a20a48.png) | ![](https://user-images.githubusercontent.com/89752427/179861959-ef84dd75-6af4-4b8b-91bc-1e8a1b455e2f.png) |
 
+## CONTACT
+
+
+[Linkedin.com/CarlosCastro](https://www.linkedin.com/in/carlos-augusto-castro-corrales-782211220/)
+
+
+`<E-Mail>` : <kimmo888999@gmail.com>
 
 <!--
 **kimmo888/kimmo888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
