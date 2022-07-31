@@ -27,7 +27,7 @@ const Kimmo888 = {
 ## CONTACT
 
 
-[Linkedin.com/CarlosCastro](https://www.linkedin.com/in/carlos-augusto-castro-corrales-782211220/)
+`<In>` [Linkedin.com/CarlosCastro](https://www.linkedin.com/in/carlos-augusto-castro-corrales-782211220/)
 
 
 `<E-Mail>` : <kimmo888999@gmail.com>
