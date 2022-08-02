@@ -30,7 +30,7 @@ const Kimmo888 = {
 `<In>` [Linkedin.com/CarlosCastro](https://www.linkedin.com/in/carlos-augusto-castro-corrales-782211220/)
 
 
-`<E-Mail>` : <kimmo888999@gmail.com>
+`<E-Mail>` : <carlos.castro.dev.888@gmail.com>
 
 <!--
 **kimmo888/kimmo888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
